@@ -1,0 +1,6 @@
+{
+    "Keys": [ "deepseek" ],
+    "Name": "DeepSeek AI Plugin",
+    "Version": "1.0.0",
+    "Description": "A plugin for integrating DeepSeek AI API into Qt applications"
+}
